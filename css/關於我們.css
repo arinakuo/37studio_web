@@ -1,0 +1,844 @@
+@import url("reset.css");
+
+@media (min-width: 992px) {
+
+main{
+	margin-top: 140px;
+	width: 100%
+	height:auto;
+	overflow: hidden;
+	margin-bottom: 100px;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 10px;
+}
+
+
+
+.aboutme-wrapper{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	
+}
+
+.aboutme1-content{
+	width: 920px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+	padding-top: 50px;
+	margin:0 auto;
+
+}
+
+.aboutme1{
+	width: 600px;
+	height: 600px;
+	float: left;
+}
+
+.aboutme1 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme1-text{
+	width: 30%;
+	float: left;	
+	position: relative;
+	left: 30px;
+	top:160px;
+	text-align: right;
+}
+
+.aboutme1-text h2{
+	line-height: 1.6;
+	padding-bottom: 24px;
+	font-size: 26px;
+	
+}
+
+.aboutme1-text h2 span{
+	display: block;
+	
+}
+
+.aboutme1-text p{
+	font-size: 22px;
+	line-height: 1.6;
+}
+
+/*---------------aboutme2----------------*/
+article{
+	width: 100%;	
+	height: auto;
+	overflow: hidden;
+	padding:50px 0;
+	margin: 100px 0 50px 0;
+	background-color: #E8E8E8FF;
+
+}
+
+.aboutme2-content{
+	width: 920px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+
+
+
+.aboutme2{
+	width: 600px;
+	height: 600px;
+	float: left;
+	position: relative;
+	right: -50px;
+}
+
+.aboutme2 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme2-text{
+	width: 30%;
+	float: left;	
+	position: relative;
+	text-align: left;	
+	top:160px;
+}
+
+.aboutme2-text h2{
+	line-height: 1.6;
+	padding-bottom: 24px;
+	font-size: 26px;
+	
+}
+
+.aboutme2-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-text p{
+	font-size: 22px;
+	line-height: 1.6;
+}
+
+.aboutme2-mobile-text{
+	display: none;
+}
+
+}
+
+/*----------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991.98px){
+
+main{
+	margin-top: 140px;
+	width: 100%
+	height:auto;
+	overflow: hidden;
+	margin-bottom: 60px;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+
+.aboutme-wrapper{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	
+}
+
+.aboutme1-content{
+	width: 710px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	margin:0 auto;
+	
+	
+}
+
+.aboutme1{
+	width: 450px;
+	height: 450px;
+	float: left;
+}
+
+.aboutme1 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme1-text{
+	width: 250px;
+	float: left;	
+	position: relative;
+	left: 10px;
+	top:60px;
+	text-align: right;
+
+}
+
+.aboutme1-text h2{
+	line-height: 1.6;
+	padding-bottom: 24px;
+	font-size: 24px;
+	
+}
+
+.aboutme1-text h2 span{
+	display: block;
+	
+}
+
+.aboutme1-text p{
+	font-size: 20px;
+	line-height: 1.6;
+}
+
+/*---------------aboutme2----------------*/
+article{
+	width: 100%;	
+	height: auto;
+	overflow: hidden;
+	padding:50px 0;
+	margin: 50px 0 50px 0;
+	background-color: #E8E8E8FF;
+
+}
+
+.aboutme2-content{
+	width: 710px;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 50px;
+	padding-top: 10px;
+	margin:0 auto;
+	
+}
+
+.aboutme2{
+	width: 450px;
+	height: 450px;
+	float: left;
+}
+
+.aboutme2 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme2-text{
+	width: 250px;
+	float: left;	
+	position: relative;
+	left: 10px;
+	top:60px;
+	text-align: left;
+
+}
+
+.aboutme2-text h2{
+	line-height: 1.6;
+	padding-bottom: 24px;
+	font-size: 24px;
+	
+}
+
+.aboutme2-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-text p{
+	font-size: 20px;
+	line-height: 1.6;
+}
+
+.aboutme2-mobile-text{
+	display: none;
+}
+}
+
+/*--------------------------------------------------------------------------------------*/
+@media  (min-width: 576px) and (max-width: 767.98px){
+
+main{
+	margin-top: 120px;
+	width: 100%
+	height:auto;
+	overflow: hidden;
+	margin-bottom: 25px;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 30px;
+}
+
+
+
+.aboutme-wrapper{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	
+}
+
+.aboutme1-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	margin:0 auto;
+
+	
+	
+}
+
+.aboutme1{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:20px;
+}
+
+.aboutme1 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme1-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme1-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme1-text h2 span{
+	display: block;
+	
+}
+
+.aboutme1-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*---------------aboutme2----------------*/
+article{
+	width: 100%;	
+	height: auto;
+	overflow: hidden;
+	padding:30px 0 20px 0;
+	margin: 25px 0 30px 0;
+	background-color: #E8E8E8FF;
+
+}
+
+.aboutme2-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	margin:0 auto;
+	
+}
+
+.aboutme2{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:20px;
+
+}
+
+.aboutme2 img{
+	width: 100%;
+	height: auto;
+}
+
+
+.aboutme2-text{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutm2-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme2-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*------------------mobile-------------------*/
+
+.aboutme2-mobile-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme2-mobile-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme2-mobile-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-mobile-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+}
+
+/*---------------------------------------------------------------------------------*/
+
+@media  (max-width: 575.98px){
+
+main{
+	margin-top: 110px;
+	width: 100%
+	height:auto;
+	overflow: hidden;
+	margin-bottom: 25px;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+
+.aboutme-wrapper{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	
+}
+
+.aboutme1-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	margin:0 auto;
+
+	
+	
+}
+
+.aboutme1{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:20px;
+}
+
+.aboutme1 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme1-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme1-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme1-text h2 span{
+	display: block;
+	
+}
+
+.aboutme1-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*---------------aboutme2----------------*/
+article{
+	width: 100%;	
+	height: auto;
+	overflow: hidden;
+	padding:30px 0 20px 0;
+	margin: 25px 0 30px 0;
+	background-color: #E8E8E8FF;
+
+}
+
+.aboutme2-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	margin:0 auto;
+	
+}
+
+.aboutme2{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:20px;
+
+}
+
+.aboutme2 img{
+	width: 100%;
+	height: auto;
+}
+
+
+.aboutme2-text{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutm2-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme2-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*------------------mobile-------------------*/
+
+.aboutme2-mobile-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme2-mobile-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme2-mobile-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-mobile-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+}
+
+/*-----------------------------------------------------------------------------------*/
+@media  (max-width: 400px){
+
+main{
+	margin-top: 110px;
+	width: 100%
+	height:auto;
+	overflow: hidden;
+	margin-bottom: 25px;
+}
+
+.title{
+	width: 100%;
+	text-align: center;
+	margin-bottom: 20px;
+}
+
+
+
+.aboutme-wrapper{
+	width:100%;
+	height: auto;
+	margin:0 auto;
+	
+}
+
+.aboutme1-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	margin:0 auto;
+
+	
+	
+}
+
+.aboutme1{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:15px;
+}
+
+.aboutme1 img{
+	width: 100%;
+	height: auto;
+}
+
+.aboutme1-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme1-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 20px;
+	
+}
+
+.aboutme1-text h2 span{
+	display: block;
+	
+}
+
+.aboutme1-text p{
+
+	margin:0 auto;
+	font-size: 16px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*---------------aboutme2----------------*/
+article{
+	width: 100%;	
+	height: auto;
+	overflow: hidden;
+	padding:20px 0 20px 0;
+	margin: 20px 0 20px 0;
+	background-color: #E8E8E8FF;
+
+}
+
+.aboutme2-content{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+	padding-top: 10px;
+	padding-bottom: 0px;
+	margin:0 auto;
+	
+}
+
+.aboutme2{
+	width: 100%;
+	height: auto;
+	float: none;
+	margin-bottom:15px;
+
+}
+
+.aboutme2 img{
+	width: 100%;
+	height: auto;
+}
+
+
+.aboutme2-text{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutm2-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 22px;
+	
+}
+
+.aboutme2-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-text p{
+
+	margin:0 auto;
+	font-size: 18px;
+	line-height: 1.6;
+	float: center;
+}
+
+/*------------------mobile-------------------*/
+
+.aboutme2-mobile-text{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	float: none;	
+	position: relative;
+	left: 0px;
+	top:0px;
+	text-align: center;
+}
+
+.aboutme2-mobile-text h2{
+	width: 100%;
+	line-height: 1.6;
+	padding-bottom: 0px;
+	font-size: 20px;
+	
+}
+
+.aboutme2-mobile-text h2 span{
+	display: block;
+	
+}
+
+.aboutme2-mobile-text p{
+
+	margin:0 auto;
+	font-size: 16px;
+	line-height: 1.6;
+	float: center;
+}
+}

@@ -1,0 +1,599 @@
+@import url("reset.css");
+
+@media (min-width: 992px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin: 175px 0 55px 0;	
+}
+
+
+.house-wrapper{
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.mobile-img{display: none;}
+
+.big-img{
+	display: block;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.big-img img{
+	width: 100%;
+	height: auto;
+
+}
+
+.small-img{
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+
+}
+
+.small-img ul{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	
+	
+}
+
+.small-img li{
+	width: 140px;
+	height:auto;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;	
+}
+
+.small-img img{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-size:cover;	
+
+	
+}
+
+.introduction-text{
+	border:1px solid #ccc;
+	text-align: center;
+	width: 350px;
+	margin:0 auto;
+	padding:20px;
+	margin-top:65px;
+	font-size: 20px;
+}
+
+.introduction-text p{
+	line-height: 1.8;
+}
+
+
+}
+
+/*----------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991.98px){
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin: 120px 0 30px 0;	
+}
+
+
+.house-wrapper{
+	width: 750px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.mobile-img{
+	display: block;
+	margin:0 auto;
+	width: 90%;
+}
+
+.img-box{
+	width: 100%;
+	margin-bottom: 8%;
+}
+
+.mobile-img img{
+	width: 100%;
+	height: auto;
+}
+
+
+.big-img{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.big-img img{
+	width: 100%;
+	height: auto;	
+}
+
+.small-img{
+	display: none;
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+
+.small-img ul{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	
+	
+}
+
+.small-img li{
+	width: 140px;
+	height:auto;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;	
+}
+
+.small-img img{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-size:cover;	
+}
+
+.introduction-text{
+	border:0px solid #ccc;
+	text-align: center;
+	width: 100%;
+	margin:0 auto;
+	padding:0px;
+	margin-top:15px;
+	margin-bottom:30px;
+}
+
+.introduction-text p{
+	line-height: 1.8;
+	font-size: 20px;
+}
+
+.introduction-text span{
+	width: 300px;
+	font-size: 30px;
+	display: block;
+	
+	margin:0 auto;
+	margin-bottom: 20px;
+}
+
+.introduction-text span:before{
+	display: block;
+	content: " -";
+	float: left;
+	margin-right: 5px;
+}
+
+.introduction-text span:after{
+	display: block;
+	content: " -";
+	float: right;
+	margin-left: 5px;
+}
+
+
+}
+
+/*---------------------------------------------------------------------------------*/
+@media (min-width: 576px) and (max-width: 767.98px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin: 100px 0 30px 0;	
+}
+
+
+.house-wrapper{
+	width: 550px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.mobile-img{
+	display: block;
+	margin:0 auto;
+	width: 90%;
+}
+
+.img-box{
+	width: 100%;
+	margin-bottom: 8%;
+}
+
+.mobile-img img{
+	width: 100%;
+	height: auto;
+}
+
+
+.big-img{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.big-img img{
+	width: 100%;
+	height: auto;	
+}
+
+.small-img{
+	display: none;
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+
+.small-img ul{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	
+	
+}
+
+.small-img li{
+	width: 140px;
+	height:auto;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;	
+}
+
+.small-img img{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-size:cover;	
+}
+
+.introduction-text{
+	border:0px solid #ccc;
+	text-align: center;
+	width: 100%;
+	margin:0 auto;
+	padding:0px;
+	margin-top:15px;
+	margin-bottom:30px;
+}
+
+.introduction-text p{
+	line-height: 1.8;
+	font-size: 20px;
+}
+
+.introduction-text span{
+	width: 280px;
+	font-size: 28px;
+	display: block;
+	
+	margin:0 auto;
+	margin-bottom: 15px;
+}
+
+.introduction-text span:before{
+	display: block;
+	content: " -";
+	float: left;
+	margin-right: 5px;
+}
+
+.introduction-text span:after{
+	display: block;
+	content: " -";
+	float: right;
+	margin-left: 5px;
+}
+
+
+
+}
+
+/*--------------------------------------------------------------------------------*/
+
+@media (max-width: 575.98px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin: 100px 0 0px 0;	
+}
+
+
+.house-wrapper{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.mobile-img{
+	display: block;
+	margin:0 auto;
+	width: 90%;
+}
+
+.img-box{
+	width: 100%;
+	margin-bottom: 8%;
+}
+
+.mobile-img img{
+	width: 100%;
+	height: auto;
+}
+
+
+.big-img{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.big-img img{
+	width: 100%;
+	height: auto;	
+}
+
+.small-img{
+	display: none;
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+
+.small-img ul{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	
+	
+}
+
+.small-img li{
+	width: 140px;
+	height:auto;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;	
+}
+
+.small-img img{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-size:cover;	
+}
+
+.introduction-text{
+	border:0px solid #ccc;
+	text-align: center;
+	width: 100%;
+	margin:0 auto;
+	padding:0px;
+	margin-top:15px;
+	margin-bottom:20px;
+}
+
+.introduction-text p{
+	line-height: 1.8;
+	font-size: 18px;
+}
+
+.introduction-text span{
+	width: 260px;
+	font-size: 26px;
+	display: block;	
+	margin:0 auto;
+	margin-bottom: 15px;
+}
+
+.introduction-text span:before{
+	display: block;
+	content: " -";
+	float: left;
+	margin-right: 5px;
+}
+
+.introduction-text span:after{
+	display: block;
+	content: " -";
+	float: right;
+	margin-left: 5px;
+}
+
+
+
+}
+
+/*---------------------------------------------------------------------------*/
+
+@media (max-width: 400px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin: 90px 0 0px 0;	
+}
+
+
+.house-wrapper{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	margin-bottom: 20px;
+	
+}
+
+.mobile-img{
+	display: block;
+	margin:0 auto;
+	width: 90%;
+}
+
+.img-box{
+	width: 100%;
+	margin-bottom: 8%;
+}
+
+.mobile-img img{
+	width: 100%;
+	height: auto;
+}
+
+
+.big-img{
+	display: none;
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	margin-bottom: 10px;
+
+}
+
+.big-img img{
+	width: 100%;
+	height: auto;	
+}
+
+.small-img{
+	display: none;
+	width: 900px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+}
+
+.small-img ul{
+	width: 100%;
+	height: 90px;
+	overflow: hidden;
+	
+	
+}
+
+.small-img li{
+	width: 140px;
+	height:auto;
+	overflow: hidden;
+	float: left;
+	margin-right: 10px;	
+}
+
+.small-img img{
+	display: block;
+	width: 100%;
+	height: auto;
+	background-size:cover;	
+}
+
+.introduction-text{
+	border:0px solid #ccc;
+	text-align: center;
+	width: 100%;
+	margin:0 auto;
+	padding:0px;
+	margin-top:15px;
+	margin-bottom:20px;
+}
+
+.introduction-text p{
+	line-height: 1.8;
+	font-size: 16px;
+}
+
+.introduction-text span{
+	width: 240px;
+	font-size: 24px;
+	display: block;	
+	margin:0 auto;
+	margin-bottom:20px;
+}
+
+.introduction-text span:before{
+	display: block;
+	content: " -";
+	float: left;
+	margin-right: 5px;
+}
+
+.introduction-text span:after{
+	display: block;
+	content: " -";
+	float: right;
+	margin-left: 5px;
+}
+
+
+
+}
+
+
+
+
+
+
+
+

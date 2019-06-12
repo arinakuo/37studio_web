@@ -1,0 +1,789 @@
+@import url("reset.css");
+
+@media (min-width: 992px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding:140px 0 50px 0;
+	
+
+}
+
+article{
+	width: 700px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	padding-bottom: 50px;
+	padding-left: 30px;
+
+}
+
+
+
+.information{
+	width: 50%;
+	height:200px;		
+	margin:0 auto;
+	text-align: center;
+	float: left;
+
+}
+
+.information ul{
+	width: 380px;
+	margin:0 auto;
+	float: none;
+	
+	
+}
+
+.information ul li{	
+	margin:16px 0;
+	width: 100%;
+	height: 35px;
+}
+
+.information a{
+	color:#000;
+}
+
+.information p{
+	float: left;
+	line-height: 30px;
+	font-size: 20px;
+}
+
+
+
+.information .icon a{
+	display: block;
+	float: left;
+	width: 32px;
+	height: 32px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	margin-right:20px;
+
+}
+
+
+.title{
+	width: 250px;
+	height: 200px;
+	text-align: left;
+	margin-right:40px;
+	float: left;
+	
+}
+
+.title h2{
+	
+	line-height: 180px;
+	
+
+}
+
+iframe{
+	display: block;	
+	width: 780px;
+	height: 530px;
+	float: none;
+	margin:0 auto;
+	
+}
+
+
+.information .tel{background-image: url(logo/phone.png);}
+.information .mail{background-image: url(logo/mail.png);}
+.information .facebook{background-image: url(logo/facebook.png)}
+.information .address{background-image: url(logo/add.png);}
+
+/*-----------------------------transportation------------------------------*/
+.transportation{
+	width: 100%;
+	height:auto;
+	overflow: hidden;
+	background-color:#F2F2F2FF;
+	padding-bottom: 50px;
+}
+
+.transportation-content{
+	width: 780px;
+	margin:0 auto;
+	text-align: center;
+	padding-top:45px; 
+	letter-spacing: 2px;
+}
+
+.way{
+	margin-top: 20px;
+}
+
+
+.transportation-content h2{
+	font-size: 32px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+
+.transportation-content h3{
+	font-size: 22px;
+	text-align: left;
+	font-weight: normal;
+	padding:10px 0;
+}
+
+.transportation-content p{
+	font-size: 18px;
+	text-align: left;
+	margin-left:20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	
+}
+
+
+
+
+}
+
+
+/*----------------------------------------------------------------------------------*/
+@media (min-width: 768px) and (max-width: 991.98px){
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding:140px 0 50px 0;
+	
+
+}
+
+article{
+	width: 650px;
+	height: auto;
+	overflow: hidden;
+	margin:0 auto;
+	padding-bottom: 30px;
+	padding-left: 30px;
+
+}
+
+
+
+.information{
+	width: 350px;
+	height:200px;		
+	margin-top:-10px;
+	text-align: center;
+	float: left;
+
+}
+
+.information ul{
+	width: 100%;
+	margin:0 auto;
+	float: none;
+
+	
+}
+
+.information ul li{	
+	margin:16px 0;
+	width: 100%;
+	height: 35px;
+}
+
+.information a{
+	color:#000;
+}
+
+.information p{
+	float: left;
+	line-height: 30px;
+	font-size: 18px;
+}
+
+
+
+.information .icon a{
+	display: block;
+	float: left;
+	width: 30px;
+	height: 30px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	margin-right:20px;
+
+}
+
+
+.title{
+	width: 200px;
+	height: 200px;
+	text-align: left;
+	margin-right:30px;
+	float: left;
+	
+	
+	
+}
+
+.title h2{
+	line-height: 180px;
+
+}
+
+iframe{
+	display: block;	
+	width: 680px;
+	height: 500px;
+	float: none;
+	margin:0 auto;
+	
+}
+
+
+.information .tel{background-image: url(logo/phone.png);}
+.information .mail{background-image: url(logo/mail.png);}
+.information .facebook{background-image: url(logo/facebook.png)}
+.information .address{background-image: url(logo/add.png);}
+
+/*-----------------------------transportation------------------------------*/
+.transportation{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background-color:#F2F2F2FF;
+	padding-bottom: 50px;
+}
+
+.transportation-content{
+	width: 680px;
+	margin:0 auto;
+	text-align: center;
+	padding-top:40px; 
+	letter-spacing: 2px;
+}
+
+.way{
+	margin-top: 20px;
+}
+
+
+.transportation-content h2{
+	font-size: 30px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+
+.transportation-content h3{
+	font-size: 20px;
+	text-align: left;
+	font-weight: normal;
+	padding:10px 0;
+}
+
+.transportation-content p{
+	font-size: 18px;
+	text-align: left;
+	margin-left:20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	
+}
+
+
+
+
+}
+
+/*------------------------------------------------------------------------------------*/
+
+@media (min-width: 576px) and (max-width: 767.98px){
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding:0;
+	margin-top:85px;
+	
+
+}
+
+article{
+	width: 550px;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding-bottom: 30px;
+	padding-left: 0px;
+
+}
+
+
+
+.information{
+	width: 300px;
+	height:180px;		
+	padding: 35px 0 10px 0; 
+	text-align: center;
+	float: none;
+	margin:0 auto;
+
+}
+
+.information ul{
+	width: 100%;
+	margin:0 auto;
+	float: none;
+	
+}
+
+.information ul li{	
+	margin:12px 0;
+	width: 100%;
+	height: 35px;
+}
+
+.information a{
+	color:#000;
+}
+
+.information p{
+	float: left;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+
+
+.information .icon a{
+	display: block;
+	float: left;
+	width: 28px;
+	height: 28px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	margin-right:10px;
+
+}
+
+
+.title{
+	width: 100%
+	height: 50px;
+	margin-top: 55px;
+	margin-right:0px;
+	float: none;
+	
+	
+	
+}
+
+.title h2{
+	line-height: 10px;
+	
+
+}
+
+iframe{
+	display: block;	
+	width: 500px;
+	height: 350px;
+	float: none;
+	margin:0 auto;
+	
+}
+
+
+.information .tel{background-image: url(logo/phone.png);}
+.information .mail{background-image: url(logo/mail.png);}
+.information .facebook{background-image: url(logo/facebook.png)}
+.information .address{background-image: url(logo/add.png);}
+
+/*-----------------------------transportation------------------------------*/
+.transportation{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background-color:#F2F2F2FF;
+	margin-top: 50px;
+	padding-bottom: 40px;
+}
+
+.transportation-content{
+	width: 500px;
+	margin:0 auto;
+	text-align: center;
+	padding-top:40px; 
+	letter-spacing: 2px;
+}
+
+.way{
+	margin-top: 20px;
+}
+
+
+.transportation-content h2{
+	font-size: 28px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+
+.transportation-content h3{
+	font-size: 18px;
+	text-align: left;
+	font-weight: normal;
+	padding:10px 0;
+}
+
+.transportation-content p{
+	font-size: 16px;
+	text-align: left;
+	margin-left:20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	
+}
+
+
+}
+/*----------------------------------------------------------------------------------------------------*/
+
+@media  (max-width: 575.98px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding:0;
+	margin-top:80px;
+	
+
+}
+
+article{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding-bottom: 30px;
+	padding-left: 0px;
+
+}
+
+
+
+.information{
+	width: 80%;
+	height:150px;		
+	padding: 35px 0 10px 0; 
+	text-align: center;
+	float: none;
+	margin:0 auto;
+
+}
+
+.information ul{
+	width: 100%;
+	margin:0 auto;
+	float: none;
+	
+}
+
+.information ul li{	
+	margin:12px 0;
+	width: 100%;
+	height: 35px;
+}
+
+.information a{
+	color:#000;
+}
+
+.information p{
+	float: left;
+	line-height: 25px;
+	font-size: 16px;
+}
+
+
+
+.information .icon a{
+	display: block;
+	float: left;
+	width: 28px;
+	height: 28px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	margin-right:10px;
+
+}
+
+
+.title{
+	width: 100%
+	height: 50px;
+	margin-top: 42px;
+	margin-right:0px;
+	float: none;
+	
+	
+	
+}
+
+.title h2{
+	line-height: 10px;
+
+}
+
+iframe{
+	display: block;	
+	width: 90%;
+	height: 300px;
+	float: none;
+	margin:0 auto;
+	
+}
+
+
+.information .tel{background-image: url(logo/phone.png);}
+.information .mail{background-image: url(logo/mail.png);}
+.information .facebook{background-image: url(logo/facebook.png)}
+.information .address{background-image: url(logo/add.png);}
+
+/*-----------------------------transportation------------------------------*/
+.transportation{
+	width: 100%;
+	height: auto;
+	overflow:hidden;
+	background-color:#F2F2F2FF;
+	margin-top: 40px;
+	padding-bottom: 40px;
+}
+
+.transportation-content{
+	width: 80%;
+	margin:0 auto;
+	text-align: center;
+	padding-top:8%;
+	
+	letter-spacing: 2px;
+}
+
+.way{
+	margin-top: 10px;
+}
+
+
+
+
+.transportation-content h2{
+	font-size: 24px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+
+.transportation-content h3{
+	font-size: 18px;
+	text-align: left;
+	font-weight: normal;
+	padding:10px 0;
+}
+
+.transportation-content p{
+	font-size: 15px;
+	text-align: left;
+	margin-left:20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	
+}
+
+
+
+}
+/*-------------------------------------------------------------------*/
+@media  (max-width: 400px){
+
+
+main{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding:0 ;
+	margin-top:80px;
+
+	
+
+}
+
+article{
+	width: 90%;
+	height: auto;
+	overflow: hidden;
+	text-align: center;
+	margin:0 auto;
+	padding-bottom: 30px;
+	padding-left: 0px;
+
+}
+
+
+
+.information{
+	width: 80%;
+	height:150px;		
+	padding: 26px 0 10px 0; 
+	text-align: center;
+	float: none;
+	margin:0 auto;
+
+}
+
+.information ul{
+	width: 100%;
+	margin:0 auto;
+	float: none;
+	
+}
+
+.information ul li{	
+	margin:12px 0;
+	width: 100%;
+	height: 35px;
+}
+
+.information a{
+	color:#000;
+}
+
+.information p{
+	float: left;
+	line-height: 24px;
+	font-size: 15px;
+}
+
+.information p span{
+	display: block;
+	position: relative;
+	left: -64px;
+}
+
+
+
+.information .icon a{
+	display: block;
+	float: left;
+	width: 26px;
+	height: 26px;
+	background-repeat: no-repeat;
+	background-size: 100% auto;
+	margin-right:10px;
+
+}
+
+
+.title{
+	width: 100%
+	height: 50px;
+	margin-top: 42px;
+	margin-right:0px;
+	float: none;
+	
+	
+	
+}
+
+.title h2{
+	
+	line-height: 10px;
+
+}
+
+iframe{
+	display: block;	
+	width: 90%;
+	height: 300px;
+	float: none;
+	margin:0 auto;
+	
+}
+
+
+.information .tel{background-image: url(logo/phone.png);}
+.information .mail{background-image: url(logo/mail.png);}
+.information .facebook{background-image: url(logo/facebook.png)}
+.information .address{background-image: url(logo/add.png);}
+
+/*-----------------------------transportation------------------------------*/
+.transportation{
+	width: 100%;
+	height: auto;
+	overflow: hidden;
+	background-color:#F2F2F2FF;
+	margin-top: 40px;
+	
+}
+
+.transportation-content{
+	width: 80%;
+	margin:0 auto;
+	text-align: center;
+	padding-top:10%;	
+	letter-spacing: 2px;
+}
+
+.way{
+	margin-top: 5px;
+}
+
+
+.transportation-content h2{
+	font-size: 24px;
+	letter-spacing: 2px;
+	font-weight: normal;
+}
+
+.transportation-content h3{
+	font-size: 18px;
+	text-align: left;
+	font-weight: normal;
+	padding:10px 0;
+}
+
+.transportation-content p{
+	font-size: 15px;
+	text-align: left;
+	margin-left:20px;
+	line-height: 2;
+	letter-spacing: 1px;
+	
+}
+
+
+
+
+}
+
+
